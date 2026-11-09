@@ -2,6 +2,7 @@
 """Configuracion del entorno"""
 import os
 from dotenv import load_dotenv
+from python_ia_aplicada_langchain.config.settings import settings
 
 load_dotenv()
 
